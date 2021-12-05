@@ -86,4 +86,4 @@ A ToDo List API following some best practices:
 
 1. https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-implementation
 2. https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Web%20API%20Best%20Practices.pdf
-3. 
+3. https://mathieu.fenniak.net/the-api-checklist/
